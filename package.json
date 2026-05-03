@@ -1,8 +1,10 @@
 {
   "name": "agent-demandes",
   "version": "1.0.0",
-  "description": "Agent de traitement des demandes — Compagnie des Guides Conférenciers",
   "dependencies": {
     "@anthropic-ai/sdk": "^0.39.0"
+  },
+  "scripts": {
+    "build": "echo ok"
   }
 }
